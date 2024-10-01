@@ -40,7 +40,7 @@ Programa que calcula o percentual de representação que cada estado teve dentro
 5. **Inversão de String:**
 Programa que inverte os caracteres de uma string sem utilizar funções prontas como reverse.
 
-
+## Como Executar os Códigos
 1. **Clone o repositório:**
 
    ```
