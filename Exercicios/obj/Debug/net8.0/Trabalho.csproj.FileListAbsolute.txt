@@ -1,0 +1,17 @@
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Trabalho.exe
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Trabalho.deps.json
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Trabalho.dll
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Trabalho.pdb
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.dll
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\refint\Trabalho.dll
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.pdb
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\ref\Trabalho.dll
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.csproj.AssemblyReference.cache
+C:\Users\Sabrina\Downloads\Jose_Baguncas\Codes\Trabalho\obj\Debug\net8.0\Trabalho.csproj.Up2Date
