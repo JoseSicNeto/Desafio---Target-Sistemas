@@ -62,4 +62,4 @@ Programa que inverte os caracteres de uma string sem utilizar funções prontas 
 ## Autor
 - **Nome:** José S Neto
 - **Email:** josesiqueira7818@gmail.com
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
+- **GitHub:** [seu-usuario](https://github.com/JoseSicNeto)
